@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcamargot&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🤝 **¡Conéctate conmigo!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gastón%20Camargo-blue?logo=linkedin&style=flat)](https://linkedin.com/in/gcamargo221)
+[![GitHub](https://img.shields.io/badge/GitHub-Gastón%20Camargo-lightgrey?logo=github&style=flat)](https://github.com/gcamargot)
+
 <!--
 **gcamargot/gcamargot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
