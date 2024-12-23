@@ -4,7 +4,7 @@ Jr. Software Engineer | Investigador en el Instituto Universitario Aeronáutico
 
 Soy un Junior Software Engineer con experiencia en desarrollo de software y actualmente me desempeño como investigador en el Instituto Universitario Aeronáutico, donde contribuyo a proyectos de optimización y tecnología avanzada. Me apasiona la tecnología blockchain y su potencial para revolucionar industrias, especializándome en el desarrollo de smart contracts seguros y eficientes.
 
-Combino mi curiosidad por la innovación con habilidades técnicas en lenguajes como Solidity, Python, y Rust, buscando siempre aportar soluciones prácticas y de alto impacto.
+Combino mi curiosidad por la innovación con habilidades técnicas en lenguajes como Solidity, Python, y Java, buscando siempre aportar soluciones prácticas y de alto impacto.
 
 
 
