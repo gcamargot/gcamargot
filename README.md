@@ -8,7 +8,7 @@ Combino mi curiosidad por la innovación con habilidades técnicas en lenguajes 
 
 
 
-[![Top Langs](https://github-stats-smoky-zeta.vercel.app/api/top-langs/?layout=compact&theme=radical&username=gcamargot)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-smoky-zeta.vercel.app/api/top-langs/?layout=compact&theme=radical&username=gcamargot)](https://github-stats-smoky-zeta.vercel.app/api/top-langs/?layout=compact&theme=radical&username=gcamargot)
 
 ## 🤝 **¡Conéctate conmigo!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gastón%20Camargo-blue?logo=linkedin&style=flat)](https://linkedin.com/in/gcamargo221)
