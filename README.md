@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Jr. Software Engineer | Investigador en el Instituto Universitario Aeronáutico
+Cybersecurity Enthusiast | Investigador en el Instituto Universitario Aeronáutico
 
-Soy un Junior Software Engineer con experiencia en desarrollo de software y actualmente me desempeño como investigador en el Instituto Universitario Aeronáutico, donde contribuyo a proyectos de optimización y tecnología avanzada. 
+Estudiante de Ingenieria en Informatica con experiencia en desarrollo de software y actualmente me desempeño como investigador en el Instituto Universitario Aeronáutico, donde contribuyo a proyectos de optimización y tecnología avanzada. 
 
-Combino mi curiosidad por la innovación con habilidades técnicas en lenguajes como C/C++, Java y Python, buscando siempre aportar soluciones prácticas y de alto impacto.
+Combino mi pasion por la seguridad y mis habilidades técnicas en desarrollo de software, buscando mantener la información de forma segura sin sacrificar rendimiento.
 
 
 
