@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-Cybersecurity Enthusiast | Investigador en el Instituto Universitario Aeronáutico
+SOC Analyst | Cybersecurity Enthusiast
 
-Estudiante de Ingenieria en Informatica con experiencia en desarrollo de software y actualmente me desempeño como investigador en el Instituto Universitario Aeronáutico, donde contribuyo a proyectos de optimización y tecnología avanzada. 
-
-Combino mi pasion por la seguridad y mis habilidades técnicas en desarrollo de software, buscando mantener la información de forma segura sin sacrificar rendimiento.
-
+Estudiante de Ingenieria en Informatica con especializacion en Seguridad Informatica. Con experiencia en I+D y actualmente desempeñando el rol de SOC Analyst. 
 
 
 [![Top Langs](https://github-stats-smoky-zeta.vercel.app/api/top-langs/?layout=compact&theme=radical&username=gcamargot)](https://github-stats-smoky-zeta.vercel.app/api/top-langs/?layout=compact&theme=radical&username=gcamargot)
