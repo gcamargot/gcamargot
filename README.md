@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-SOC Analyst | Cybersecurity Enthusiast
+DevOps | Infrastructure | Cybersecurity Enthusiast
 
-Estudiante de Ingenieria en Informatica con especializacion en Seguridad Informatica. Con experiencia en I+D y actualmente desempeñando el rol de SOC Analyst. 
+Estudiante de Ingenieria en Informatica con especializacion en Seguridad Informatica. Con experiencia en I+D y actualmente desempeñando el rol de DevSecOps Engineer. 
 
 
 [![Top Langs](https://github-stats-smoky-zeta.vercel.app/api/top-langs/?layout=compact&theme=radical&username=gcamargot)](https://github-stats-smoky-zeta.vercel.app/api/top-langs/?layout=compact&theme=radical&username=gcamargot)
